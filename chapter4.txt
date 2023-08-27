@@ -1,1 +1,1 @@
-bca,mca
+bca,mca,12th,10th
